@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 
-const char* ssid = "YOUR_SSID";       // Your Wi-Fi SSID
-const char* password = "YOUR_PASSWORD"; // Your Wi-Fi Password
+const char* ssid = "nawaf";     
+const char* password = "nawaf123"; 
 
 WiFiServer server(80);
 
